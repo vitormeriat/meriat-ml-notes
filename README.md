@@ -1,2 +1,3 @@
-# meriat-ml-notes
+# Meriat Machine Learning Note
+
 Study Notes on machine learning, data analysis, algorithms and best practices using Python and Jupyter Notebook.
