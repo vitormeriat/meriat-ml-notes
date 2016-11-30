@@ -7,3 +7,7 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 ## File Handling
 
 ## SMS Spam Filtering
+
+## Basic Statistic in Python
+
+## Imbalanced Learning with Gaussians
