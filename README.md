@@ -8,6 +8,15 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## SMS Spam Filtering
 
+## Basic Math
+
 ## Basic Statistic in Python
+
+## Simple Probability Model
+1. Common Ground
+2. Limit Theorems
+3. Derived Distributions
+  * Covariance
+  * Correlation
 
 ## Imbalanced Learning with Gaussians
