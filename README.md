@@ -8,6 +8,8 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## SMS Spam Filtering
 
+## Song Recommender
+
 ## Basic Math
 
 ## Basic Statistic in Python
