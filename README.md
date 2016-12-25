@@ -9,8 +9,10 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 ## SMS Spam Filtering
 
 ## Song Recommender
+A simple
 
 ## Basic Math
+Basic math notions with python
 
 ## Basic Statistic in Python
 
