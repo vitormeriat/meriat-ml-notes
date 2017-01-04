@@ -16,6 +16,15 @@ Basic math notions with python
 
 ## Basic Statistic in Python
 
+## Basic Natural Language Processing
+1. Tokenization
+2. Stopword Removal
+3. N-Grams
+4. WordSense Disambiguation
+5. Parts-of-Speech
+
+*This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
+
 ## Simple Probability Model
 1. Common Ground
 2. Limit Theorems
