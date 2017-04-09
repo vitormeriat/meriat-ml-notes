@@ -25,6 +25,7 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 5. WordSense Disambiguation
 6. Parts-of-Speech
 7. Autosummarize
+8. Frequency Analysis.ipynb
 
 *This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
 
