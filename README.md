@@ -7,27 +7,24 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## Projects
 
-### File Handling
-Basic python
+### Data Assimilation and Visualization
+* Simple Plotting
+* Song Recommender
 
-### SMS Spam Filtering
-Classification demo
+### Math
+* Basic math notions with python
+* Basic Probability
+* Basic Statistic in Python
+* NaN and Numeric Limits
 
-### Song Recommender
-A simple
-
-### Basic Math
-Basic math notions with python
-
-### Basic Statistic in Python
-Basic statistic notions with python
-
-### Basic Natural Language Processing
-1. Tokenization
-2. Stopword Removal
-3. N-Grams
-4. WordSense Disambiguation
-5. Parts-of-Speech
+### Natural Language Processing
+1. Tokenizing Words
+2. Tokenizing Sentences
+3. Stopword Removal
+4. N-Grams
+5. WordSense Disambiguation
+6. Parts-of-Speech
+7. Autosummarize
 
 *This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
 
@@ -38,7 +35,25 @@ Basic statistic notions with python
   * Covariance
   * Correlation
 
-### Imbalanced Learning with Gaussians
+### Others
+* SMS Spam Filtering
+* Pima Indian Diabetes
+* Titanic: Machine Learning from Disaster
+* Producing maps with the Basemap library
+* Imbalanced Learning with Gaussians
+* File Handling
+* Essential Libraries and Tools
+* Classifying iris species
+
+### Data
+Folders and datasets or files used in projects.
+
+* file handling
+* indian diabetes
+* maps
+* simple plotting
+* sms spam
+* titanic
 
 
 #### Where to learn more about Python
