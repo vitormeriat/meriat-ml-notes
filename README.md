@@ -37,7 +37,9 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
   * Correlation
   
 ### Neural Network
-
+* Perceptron
+* Adaline
+* Simple Neural Network
 
 ### Others
 * SMS Spam Filtering
