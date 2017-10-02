@@ -41,6 +41,11 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 * Adaline
 * Simple Neural Network
 
+### Deep Learning
+* **MeriatFlow**: Deep neural network building library.
+* CNTK 101
+* TensorFlow 101
+
 ### Others
 * SMS Spam Filtering
 * Pima Indian Diabetes
