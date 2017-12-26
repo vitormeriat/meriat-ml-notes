@@ -23,6 +23,8 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 * NaN and Numeric Limits
 
 ### 4. Natural Language Processing
+> This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
+
 1. Tokenizing Words
 2. Tokenizing Sentences
 3. Stopword Removal
@@ -32,24 +34,33 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 7. Autosummarize
 8. Frequency Analysis
 
-*This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
-
-### Simple Probability Model
+### 5. Simple Probability Model
 1. Common Ground
 2. Limit Theorems
 3. Derived Distributions
   * Covariance
   * Correlation
   
-### Neural Network
+### 6. Neural Network
 * Perceptron
 * Adaline
 * Simple Neural Network
 
-### Deep Learning
+### 8. Deep Learning
 * **MeriatFlow**: Deep neural network building library.
 * CNTK 101
 * TensorFlow 101
+
+### [9. Data](/data/)
+Folders and datasets or files used in projects.
+
+* Data Cleaning
+* File Handling
+* Forest Cover Type
+* Indian Diabetes
+* Map Plotting
+* SMS Spam
+* Titanic
 
 ### Others
 * SMS Spam Filtering
@@ -60,17 +71,6 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 * File Handling
 * Essential Libraries and Tools
 * Classifying iris species
-
-### Data
-Folders and datasets or files used in projects.
-
-* file handling
-* indian diabetes
-* maps
-* simple plotting
-* sms spam
-* titanic
-
 
 #### Where to learn more about Python
 * Introduction to Python for Science - free eBook: https://github.com/djpine/pyman
