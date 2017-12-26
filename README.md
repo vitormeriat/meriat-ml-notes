@@ -4,20 +4,25 @@
 
 Study Notes on machine learning, data analysis, algorithms and best practices using Python and Jupyter Notebook.
 
+## Table of Contents
 
-## Projects
+### [1. Kaggle](/Kaggle/README.md)
+* [Forest Cover Type Prediction](/Kaggle/Forest Cover Type Prediction.ipynb)
+* [Porto Seguro’s Safe Driver Prediction](/Kaggle/Porto Seguro’s Safe Driver Prediction.ipynb)
+* [Titanic - Machine Learning from Disaster](/Kaggle/Titanic - Machine Learning from Disaster.ipynb)
 
-### Data Assimilation and Visualization
+
+### 2. Data Assimilation and Visualization
 * Simple Plotting
 * Song Recommender
 
-### Math
+### 3. Math
 * Basic math notions with python
 * Basic Probability
 * Basic Statistic in Python
 * NaN and Numeric Limits
 
-### Natural Language Processing
+### 4. Natural Language Processing
 1. Tokenizing Words
 2. Tokenizing Sentences
 3. Stopword Removal
