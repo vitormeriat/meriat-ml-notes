@@ -5,70 +5,28 @@
 Study Notes on machine learning, data analysis, algorithms and best practices using Python and Jupyter Notebook.
 
 
-## Projects
-
-### Data Assimilation and Visualization
-* Simple Plotting
-* Song Recommender
-
-### Math
-* Basic math notions with python
-* Basic Probability
-* Basic Statistic in Python
-* NaN and Numeric Limits
-
-### Natural Language Processing
-1. Tokenizing Words
-2. Tokenizing Sentences
-3. Stopword Removal
-4. N-Grams
-5. WordSense Disambiguation
-6. Parts-of-Speech
-7. Autosummarize
-8. Frequency Analysis
-
-*This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
-
-### Simple Probability Model
-1. Common Ground
-2. Limit Theorems
-3. Derived Distributions
-  * Covariance
-  * Correlation
-  
-### Neural Network
-* Perceptron
-* Adaline
-* Simple Neural Network
-
-### Deep Learning
-* **MeriatFlow**: Deep neural network building library.
-* CNTK 101
-* TensorFlow 101
-
-### Others
-* SMS Spam Filtering
-* Pima Indian Diabetes
-* Titanic: Machine Learning from Disaster
-* Producing maps with the Basemap library
-* Imbalanced Learning with Gaussians
-* File Handling
-* Essential Libraries and Tools
-* Classifying iris species
-
-### Data
-Folders and datasets or files used in projects.
-
-* file handling
-* indian diabetes
-* maps
-* simple plotting
-* sms spam
-* titanic
+## Kaggle Projects
 
 
-#### Where to learn more about Python
-* Introduction to Python for Science - free eBook: https://github.com/djpine/pyman
-* A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences (Johnny Lin): http://www.johnny-lin.com/pyintro/
-* Scientific Computing in Python (Philip Lewis Qingling Wu and José Gomez-Dans, University College London): http://proflewis.github.io/geogg122/
-* Introduction to Python, designed for those who know IDL (by Andy Heaps): http://climate.ncas.ac.uk/~andy/python.html
+### Forest Cover Type Prediction
+
+![forest-cover](../img/front_page.png)
+
+In this competition you are asked to predict the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). The actual forest cover type for a given 30 x 30 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System data. Independent variables were then derived from data obtained from the US Geological Survey and USFS. The data is in raw form (not scaled) and contains binary columns of data for qualitative independent variables such as wilderness areas and soil type.
+
+This study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices.
+
+
+### Porto Seguro’s Safe Driver Prediction
+
+Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, completely agrees. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones.
+
+In this competition, you’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. While Porto Seguro has used machine learning for the past 20 years, they’re looking to Kaggle’s machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
+
+### Titanic - Machine Learning from Disaster
+
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+
+One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+
+In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
