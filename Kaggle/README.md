@@ -10,7 +10,7 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ### Forest Cover Type Prediction
 
-![forest-cover](/img/front_page.png)
+![forest-cover](../img/forest-cover.png)
 
 In this competition you are asked to predict the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). The actual forest cover type for a given 30 x 30 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System data. Independent variables were then derived from data obtained from the US Geological Survey and USFS. The data is in raw form (not scaled) and contains binary columns of data for qualitative independent variables such as wilderness areas and soil type.
 
