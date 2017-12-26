@@ -6,10 +6,10 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## Table of Contents
 
-### [1. Kaggle](/Kaggle/README.md)
-* [Forest Cover Type Prediction](/Kaggle/Forest Cover Type Prediction.ipynb)
-* [Porto Seguro’s Safe Driver Prediction](/Kaggle/Porto Seguro’s Safe Driver Prediction.ipynb)
-* [Titanic - Machine Learning from Disaster](/Kaggle/Titanic - Machine Learning from Disaster.ipynb)
+### [1. Kaggle](/Kaggle/)
+- [Forest Cover Type Prediction](/Kaggle/Forest%20Cover%20Type%20Prediction.ipynb)
+- [Porto Seguro’s Safe Driver Prediction](/Kaggle/Porto%20Seguro’s%20Safe%20Driver%20Prediction.ipynb)
+- [Titanic - Machine Learning from Disaster](/Kaggle/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)
 
 
 ### 2. Data Assimilation and Visualization
