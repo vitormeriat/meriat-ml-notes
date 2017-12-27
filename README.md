@@ -8,59 +8,85 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## Table of Contents
 
-### [1. Kaggle](/Kaggle/)
+### [1. Math](/math/)
 
-- [Forest Cover Type Prediction](/Kaggle/Forest%20Cover%20Type%20Prediction.ipynb)
-- [Porto Seguro’s Safe Driver Prediction](/Kaggle/Porto%20Seguro’s%20Safe%20Driver%20Prediction.ipynb)
-- [Titanic - Machine Learning from Disaster](/Kaggle/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)
+* [Basic math notions](/math/Basic-Math.ipynb)
+* [Basic Probability](/math/Basic-Probability.ipynb)
+* [Basic Statistic](/math/Basic-Statistic.ipynb)
+* [More Statistics](/math/Statistics.ipynb)
+* [Linear Algebra](/math/Linear-Algebra.ipynb)
+* [NaN and Numeric Limits](/math/NaN-and-Numeric-Limits.ipynb)
 
+  #### 3.1 Probability
+  * Common Ground
+  * Limit Theorems
+  * Derived Distributions
+      * Covariance
+      * Correlation
 
-### 2. Data Assimilation and Visualization
+### [2. Data Assimilation and Visualization](/data-assimilation-and-visualization/)
 
-* Simple Plotting
-* Song Recommender
+* [Criação de gráficos interativos com Bokeh](/data-assimilation-and-visualization/criação-de-gráficos-interativos-com-bokeh.ipynb)
+* [Data Cleaning](/data-assimilation-and-visualization/data-cleaning.ipynb)
+* [File Handling](/data-assimilation-and-visualization/file-handling.ipynb)
+* [Handling Missing Data Values](/data-assimilation-and-visualization/handling-missing-data-values.ipynb)
+* [Introducing-Scikit-Learn](/data-assimilation-and-visualization/introducing-scikit-learn.ipynb)
+* [Plotando mapas com folium](/data-assimilation-and-visualization/plotando-mapas-com-folium.ipynb)
+* [Simple Plotting](/data-assimilation-and-visualization/simple-plotting.ipynb)
+* [Song Recommender](/data-assimilation-and-visualization/song-recommender.ipynb)
+* [Web scraping](/data-assimilation-and-visualization/web-scraping-with-python.ipynb)
 
-### [3. Math](/Math/)
+### [3. algorithms](/algorithms/)
 
-* [Basic math notions](/Math/Basic-Math.ipynb)
-* [Basic Probability](/Math/Basic-Probability.ipynb)
-* [Basic Statistic](/Math/Basic-Statistic.ipynb)
-* [More Statistics](/Math/Statistics.ipynb)
-* [Linear Algebra](/Math/Linear-Algebra.ipynb)
-* [NaN and Numeric Limits](/Math/NaN-and-Numeric-Limits.ipynb)
+* Análise do componente principal (PCA)
+* Árvores de decisão e Florestas Aleatórias
+* K-Means-Clustering
+* K-Nearest-Neighbors
+* Processamento de Linguagem Natural
+* Regressão Logística
+* Regressões Lineares
+* Sistemas de recomendação
+* Support-Vector-Machines
+* Map and Reduce
+* Regular Expression
 
-  #### Probability
-  1. Common Ground
-  2. Limit Theorems
-  3. Derived Distributions
-    * Covariance
-    * Correlation
-
-### [4. Natural Language Processing](/Natural Language Processing/)
+### [4. Natural Language Processing](/natural-language-processing/)
 
 > This module uses NLTK for the text processing processes. It is important to note that you will need to download nltk_data.*
 
-1. [Basic Natural Language Processing](/Natural Language Processing/Basic-Natural-Language-Processing.ipynb)
-2. [Tokenizing Words](/Natural Language Processing/Tokenizing-Words.ipynb)
-3. [Tokenizing Sentences](/Natural Language Processing/Tokenizing-Sentences.ipynb)
-4. [Stopword Removal](/Natural Language Processing/Stopword-Removal.ipynb)
+1. [Basic Natural Language Processing](/natural-language-processing/Basic-Natural-Language-Processing.ipynb)
+2. [Tokenizing Words](/natural-language-processing/Tokenizing-Words.ipynb)
+3. [Tokenizing Sentences](/natural-language-processing/Tokenizing-Sentences.ipynb)
+4. [Stopword Removal](/natural-language-processing/Stopword-Removal.ipynb)
 5. N-Grams
 6. WordSense Disambiguation
 7. Parts-of-Speech
-8. [Autosummarize](/Natural Language Processing/Autosummarize.ipynb)
-9. [Frequency Analysis](/Natural Language Processing/Frequency-Analysis.ipynb)
+8. [Autosummarize](/natural-language-processing/Autosummarize.ipynb)
+9. [Frequency Analysis](/natural-language-processing/Frequency-Analysis.ipynb)
   
-### 5. Neural Network
+### [5. Neural Network](/neural-network/)
+
 * Perceptron
 * Adaline
 * Simple Neural Network
+* Backpropagation Graduate School
+* Linear Regression
+* Train a Linear Classifier
+* Simple Convolutional Neural Networks
 
-### 6. Deep Learning
+### [6. Deep Learning](/deep-learning/)
+
 * **MeriatFlow**: Deep neural network building library.
 * CNTK 101
 * TensorFlow 101
 
-### [7. Data](/data/)
+### [7. Kaggle](/kaggle/)
+
+- [Forest Cover Type Prediction](/kaggle/forest-cover-type-prediction.ipynb)
+- [Porto Seguro’s Safe Driver Prediction](/kaggle/porto-seguro’s-safe-driver-prediction.ipynb)
+- [Titanic - Machine Learning from Disaster](/kaggle/titanic-machine-learning-from-disaster.ipynb)
+
+### [8. Data](/data/)
 
 Folders and datasets or files used in projects.
 
@@ -72,7 +98,7 @@ Folders and datasets or files used in projects.
 * SMS Spam
 * Titanic
 
-### [10. Deep Learning Nanodegree Projects](/dlnd/)
+### [9. Deep Learning Nanodegree Projects](/dlnd/)
 
 * [Your First Network](/dlnd/1-your-first-network/)
 * [Image Classification](/dlnd/2-image-classification/)
