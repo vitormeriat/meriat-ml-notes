@@ -8,14 +8,14 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ## Table of Contents
 
-### [1. Math](/math/)
+### [1. Math Probability and Statistics](/math-probability-statistics/)
 
-* [Basic math notions](/math/Basic-Math.ipynb)
-* [Basic Probability](/math/Basic-Probability.ipynb)
-* [Basic Statistic](/math/Basic-Statistic.ipynb)
-* [More Statistics](/math/Statistics.ipynb)
-* [Linear Algebra](/math/Linear-Algebra.ipynb)
-* [NaN and Numeric Limits](/math/NaN-and-Numeric-Limits.ipynb)
+* [Basic math notions](/math-probability-statistics/Basic-Math.ipynb)
+* [Basic Probability](/math-probability-statistics/Basic-Probability.ipynb)
+* [Basic Statistic](/math-probability-statistics/Basic-Statistic.ipynb)
+* [More Statistics](/math-probability-statistics/Statistics.ipynb)
+* [Linear Algebra](/math-probability-statistics/Linear-Algebra.ipynb)
+* [NaN and Numeric Limits](/math-probability-statistics/NaN-and-Numeric-Limits.ipynb)
 
   #### 3.1 Probability
   * Common Ground
