@@ -80,11 +80,11 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 * CNTK 101
 * TensorFlow 101
 
-### [7. Kaggle](/kaggle/)
+### [7. Kaggle Competitions](/kaggle-competitions/)
 
-- [Forest Cover Type Prediction](/kaggle/forest-cover-type-prediction.ipynb)
-- [Porto Seguro’s Safe Driver Prediction](/kaggle/porto-seguro’s-safe-driver-prediction.ipynb)
-- [Titanic - Machine Learning from Disaster](/kaggle/titanic-machine-learning-from-disaster.ipynb)
+- [Forest Cover Type Prediction](/kaggle-competitions/forest-cover-type-prediction.ipynb)
+- [Porto Seguro’s Safe Driver Prediction](/kaggle-competitions/porto-seguro’s-safe-driver-prediction.ipynb)
+- [Titanic - Machine Learning from Disaster](/kaggle-competitions/titanic-machine-learning-from-disaster.ipynb)
 
 ### [8. Data](/data/)
 
@@ -98,12 +98,12 @@ Folders and datasets or files used in projects.
 * SMS Spam
 * Titanic
 
-### [9. Deep Learning Nanodegree Projects](/dlnd/)
+### [9. Deep Learning Nanodegree Projects](/deep-learning-nanodegree/)
 
-* [Your First Network](/dlnd/1-your-first-network/)
-* [Image Classification](/dlnd/2-image-classification/)
-* [TV Script Generation](/dlnd/3-tv-script-generation/)
-* [Language Translation](/dlnd/4-language-translation/)
+* [Your First Network](/deep-learning-nanodegree/1-your-first-network/)
+* [Image Classification](/deep-learning-nanodegree/2-image-classification/)
+* [TV Script Generation](/deep-learning-nanodegree/3-tv-script-generation/)
+* [Language Translation](/deep-learning-nanodegree/4-language-translation/)
 
 ### Others
 

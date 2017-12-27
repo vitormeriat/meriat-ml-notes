@@ -24,4 +24,4 @@ Neste projeto, você vai gerar seu próprio script para Os Simpsons, usando rede
 
 Neste projeto, você vai conhecer o mundo da tradução por máquina com redes neurais. Você vai treinar um modelo sequência a sequência com um conjunto de dados de frases em Inglês e em Francês e usá-lo para traduzir novas frases de Inglês para Francês.
 
-### 5. TBA
+### 5. Generative Adversarial Networks
