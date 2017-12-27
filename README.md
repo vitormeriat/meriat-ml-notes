@@ -23,6 +23,7 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
   * Derived Distributions
       * Covariance
       * Correlation
+  #### 3.2 Statistics
 
 ### [2. Data Assimilation and Visualization](/data-assimilation-and-visualization/)
 
