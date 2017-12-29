@@ -123,7 +123,10 @@ Folders and datasets or files used in projects.
 * Scientific Computing in Python (Philip Lewis Qingling Wu and José Gomez-Dans, University College London): http://proflewis.github.io/geogg122/
 * Introduction to Python, designed for those who know IDL (by Andy Heaps): http://climate.ncas.ac.uk/~andy/python.html
 
+> Depending on your company, mission, and budget, the biggest limitation is usually cost: powerful hardware and smart people don’t come cheap. But it seems a few companies are moving to eliminate the infrastructure part of the equation. Cloud computing has already permeated every facet of online activity. However, recent developments in AI and the increasing sophistication of programmers, presages a new age of cloud computing.
 
-### Other	Resources
+![compiling](https://i0.wp.com/metakermit.com/files/2017/09/compiling.png)
+
+#### Other	Resources
 The	first	resource	is	`Khan	Academy`,	a	nonprofit,	educational	website	that	provides videos	to	demonstrate	many	areas	of	mathematics.	If	you	need	additional	review	on	any mathematical	concept	in	this	book,	Khan	Academy	probably	has	a	video	on	that information. http://www.khanacademy.org/ The	second	resource	is	the	Neural	Network	FAQ.	This	text-only	resource	has	a	great deal	of	information	on	neural	networks	and	other	AI	topics. http://www.faqs.org/faqs/ai-faq/neural-nets/ Although	the	information	in	this	book	is	not	necessarily	tied	to	Encog,	the	Encog home	page	has	a	fair	amount	of	general	information	on	machine	learning. http://www.encog.org
 
