@@ -10,20 +10,21 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ### [1. Math Probability and Statistics](/math-probability-statistics/)
 
-* [Basic math notions](/math-probability-statistics/Basic-Math.ipynb)
-* [Basic Probability](/math-probability-statistics/Basic-Probability.ipynb)
-* [Basic Statistic](/math-probability-statistics/Basic-Statistic.ipynb)
-* [More Statistics](/math-probability-statistics/Statistics.ipynb)
-* [Linear Algebra](/math-probability-statistics/Linear-Algebra.ipynb)
-* [NaN and Numeric Limits](/math-probability-statistics/NaN-and-Numeric-Limits.ipynb)
+  #### 1.1 Math
+  * [Basic math notions](/math-probability-statistics/Basic-Math.ipynb)
+  * [Linear Algebra](/math-probability-statistics/Linear-Algebra.ipynb)
+  * [NaN and Numeric Limits](/math-probability-statistics/NaN-and-Numeric-Limits.ipynb)
 
-  #### 3.1 Probability
+  #### 1.2 Probability
+  * [Basic Probability](/math-probability-statistics/Basic-Probability.ipynb)
   * Common Ground
   * Limit Theorems
   * Derived Distributions
       * Covariance
       * Correlation
-  #### 3.2 Statistics
+  #### 1.3 Statistics
+  * [Basic Statistic](/math-probability-statistics/Basic-Statistic.ipynb)
+  * [More Statistics](/math-probability-statistics/Statistics.ipynb)
 
 ### [2. Data Assimilation and Visualization](/data-assimilation-and-visualization/)
 
@@ -32,6 +33,7 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 * [File Handling](/data-assimilation-and-visualization/file-handling.ipynb)
 * [Handling Missing Data Values](/data-assimilation-and-visualization/handling-missing-data-values.ipynb)
 * [Introducing-Scikit-Learn](/data-assimilation-and-visualization/introducing-scikit-learn.ipynb)
+* [Maps with the Basemap Library](/data-assimilation-and-visualization/maps-with-the-basemap-library.ipynb)
 * [Plotando mapas com folium](/data-assimilation-and-visualization/plotando-mapas-com-folium.ipynb)
 * [Simple Plotting](/data-assimilation-and-visualization/simple-plotting.ipynb)
 * [Song Recommender](/data-assimilation-and-visualization/song-recommender.ipynb)
@@ -110,10 +112,8 @@ Folders and datasets or files used in projects.
 
 * SMS Spam Filtering
 * Pima Indian Diabetes
-* Titanic: Machine Learning from Disaster
 * Producing maps with the Basemap library
 * Imbalanced Learning with Gaussians
-* File Handling
 * Essential Libraries and Tools
 * Classifying iris species
 
@@ -122,3 +122,8 @@ Folders and datasets or files used in projects.
 * A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences (Johnny Lin): http://www.johnny-lin.com/pyintro/
 * Scientific Computing in Python (Philip Lewis Qingling Wu and José Gomez-Dans, University College London): http://proflewis.github.io/geogg122/
 * Introduction to Python, designed for those who know IDL (by Andy Heaps): http://climate.ncas.ac.uk/~andy/python.html
+
+
+### Other	Resources
+The	first	resource	is	`Khan	Academy`,	a	nonprofit,	educational	website	that	provides videos	to	demonstrate	many	areas	of	mathematics.	If	you	need	additional	review	on	any mathematical	concept	in	this	book,	Khan	Academy	probably	has	a	video	on	that information. http://www.khanacademy.org/ The	second	resource	is	the	Neural	Network	FAQ.	This	text-only	resource	has	a	great deal	of	information	on	neural	networks	and	other	AI	topics. http://www.faqs.org/faqs/ai-faq/neural-nets/ Although	the	information	in	this	book	is	not	necessarily	tied	to	Encog,	the	Encog home	page	has	a	fair	amount	of	general	information	on	machine	learning. http://www.encog.org
+
