@@ -28,16 +28,25 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 
 ### [2. Data Assimilation and Visualization](/data-assimilation-and-visualization/)
 
-* [Criação de gráficos interativos com Bokeh](/data-assimilation-and-visualization/criação-de-gráficos-interativos-com-bokeh.ipynb)
-* [Data Cleaning](/data-assimilation-and-visualization/data-cleaning.ipynb)
-* [File Handling](/data-assimilation-and-visualization/file-handling.ipynb)
-* [Handling Missing Data Values](/data-assimilation-and-visualization/handling-missing-data-values.ipynb)
-* [Introducing-Scikit-Learn](/data-assimilation-and-visualization/introducing-scikit-learn.ipynb)
-* [Maps with the Basemap Library](/data-assimilation-and-visualization/maps-with-the-basemap-library.ipynb)
-* [Plotando mapas com folium](/data-assimilation-and-visualization/plotando-mapas-com-folium.ipynb)
-* [Simple Plotting](/data-assimilation-and-visualization/simple-plotting.ipynb)
-* [Song Recommender](/data-assimilation-and-visualization/song-recommender.ipynb)
-* [Web scraping](/data-assimilation-and-visualization/web-scraping-with-python.ipynb)
+  #### 2.1 Visualization
+  * [Criação de gráficos interativos com Bokeh](/data-assimilation-and-visualization/criação-de-gráficos-interativos-com-bokeh.ipynb)  
+  * [Maps with the Basemap Library](/data-assimilation-and-visualization/maps-with-the-basemap-library.ipynb)
+  * [Plotando mapas com folium](/data-assimilation-and-visualization/plotando-mapas-com-folium.ipynb)
+  * [Simple Plotting](/data-assimilation-and-visualization/simple-plotting.ipynb)  
+
+  #### 2.2 Assimilation
+  * [Song Recommender](/data-assimilation-and-visualization/song-recommender.ipynb)
+  * [Web scraping](/data-assimilation-and-visualization/web-scraping-with-python.ipynb)
+  * [Data Cleaning](/data-assimilation-and-visualization/data-cleaning.ipynb)
+  * [File Handling](/data-assimilation-and-visualization/file-handling.ipynb)
+  * [Handling Missing Data Values](/data-assimilation-and-visualization/handling-missing-data-values.ipynb)
+  * [Introducing-Scikit-Learn](/data-assimilation-and-visualization/introducing-scikit-learn.ipynb)
+
+  #### 2.3 Numpy
+  * [Numpy arrays](/data-assimilation-and-visualization/numpy-arrays.ipynb)
+  * [Numpy indexing and selection](/data-assimilation-and-visualization/numpy-indexing-and-selection.ipynb)
+  * [Numpy operations](/data-assimilation-and-visualization/numpy-operations.ipynb)
+  * [Numpy tests](/data-assimilation-and-visualization/numpy-tests.ipynb)
 
 ### [3. algorithms](/algorithms/)
 
