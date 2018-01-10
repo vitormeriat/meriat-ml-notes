@@ -4,6 +4,13 @@
 
 Study Notes on machine learning, data analysis, algorithms and best practices using Python and Jupyter Notebook.
 
+### Authors
+* [Vitor Meriat](http://www.vitormeriat.com.br/) :alien: >  [Twitter](https://twitter.com/vitormeriat) | [LinkedIn](https://www.linkedin.com/in/vitormeriat) | [Instagram](https://www.instagram.com/vitormeriat/) | [Facebook](https://www.facebook.com/vitormeriat/)
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
 ---
 
 ## Table of Contents
