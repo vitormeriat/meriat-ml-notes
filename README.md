@@ -7,9 +7,18 @@ Study Notes on machine learning, data analysis, algorithms and best practices us
 ### Authors
 * [Vitor Meriat](http://www.vitormeriat.com.br/) :alien: >  [Twitter](https://twitter.com/vitormeriat) | [LinkedIn](https://www.linkedin.com/in/vitormeriat) | [Instagram](https://www.instagram.com/vitormeriat/) | [Facebook](https://www.facebook.com/vitormeriat/)
 
+[![alt text][1.2]][1]
+[![alt text][2.2]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+
+
+[1]: http://www.twitter.com/vitormeriat
+[2]: http://www.facebook.com/vitormeriat
 
 ---
 
