@@ -1,8 +1,16 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
 # Meriat Machine Learning Notes
 
 Documentação contendos as anotações, observações e aprendizados durante minha árdua tarefa de estudar Machine Learning...
 
 Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido neste repositório. Muito aqui é resultado de exercícios de livros e cursos realizados ao longo dos meus estudos.
+
+#### Author
+
+[Vitor Meriat](http://www.vitormeriat.com.br/) is a computer scientist who is passionate about creating software that will positively change the world we live in.
+
+< :alien: > <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
 
 ---
 
@@ -76,3 +84,12 @@ Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido nes
 ---
 
 # Ref
+
+
+
+
+<i class="fa fa-camera-retro fa-lg"></i>
+
+i <3 :fa-coffee: and I <3 :fa-beer: and I'll buy wayland ten of both. 
+
+

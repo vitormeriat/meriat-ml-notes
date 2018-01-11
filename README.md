@@ -4,8 +4,11 @@
 
 Study Notes on machine learning, data analysis, algorithms and best practices using Python and Jupyter Notebook.
 
-### Authors
-* [Vitor Meriat](http://www.vitormeriat.com.br/) :alien: >  [Twitter](https://twitter.com/vitormeriat) | [LinkedIn](https://www.linkedin.com/in/vitormeriat) | [Instagram](https://www.instagram.com/vitormeriat/) | [Facebook](https://www.facebook.com/vitormeriat/)
+#### Author
+
+:alien: [Vitor Meriat](http://www.vitormeriat.com.br/) is a computer scientist who is passionate about creating software that will positively change the world we live in.
+
+<a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
 
 [![alt text][1.2]][1]
 [![alt text][2.2]][2]
