@@ -2,19 +2,23 @@
 
 # Meriat Machine Learning Notes
 
-Documentação contendos as anotações, observações e aprendizados durante minha árdua tarefa de estudar Machine Learning...
+Documentação contendo as anotações, observações e aprendizados durante minha árdua tarefa de estudar Machine Learning...
 
 Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido neste repositório. Muito aqui é resultado de exercícios de livros e cursos realizados ao longo dos meus estudos.
+
+Todo o material é referenciado para sua fonte, e como exercício será traduzido para o inglês e em tempo oportuno para a linguagem`R`.
 
 #### Author
 
 [Vitor Meriat](http://www.vitormeriat.com.br/) is a computer scientist who is passionate about creating software that will positively change the world we live in.
 
-< :alien: > <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
+<img alt="Vitor Meriat" src="http://www.vitormeriat.com.br/assets/images/profile.jpg" height="50" width="50">
+
+:alien: <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
 
 ---
 
-# Foundations
+## Foundations
     
 1. Programming
     * Syntax and basic concepts
@@ -44,7 +48,7 @@ Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido nes
     2. Pandas
 --- 
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 1. Visualization
     * [Criação de gráficos interativos com Bokeh](/data-assimilation-and-visualization/criação-de-gráficos-interativos-com-bokeh.ipynb)  
@@ -61,7 +65,7 @@ Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido nes
 
 ---
 
-# Artificial intelligence
+## Artificial intelligence
 
 1. Machine learning
     1. [Algorithms](/algorithms/)
@@ -76,20 +80,40 @@ Minha intenção aqui é agrupar de forma lógica todo o conteúdo produzido nes
         * Support-Vector-Machines
         * Map and Reduce
         * Regular Expression
+    2. [Natural Language Processing](/natural-language-processing/)
+        * [Basic Natural Language Processing](/natural-language-processing/Basic-Natural-Language-Processing.ipynb)
+        * [Tokenizing Words](/natural-language-processing/Tokenizing-Words.ipynb)
+        * [Tokenizing Sentences](/natural-language-processing/Tokenizing-Sentences.ipynb)
+        * [Stopword Removal](/natural-language-processing/Stopword-Removal.ipynb)
+        * N-Grams
+        * WordSense Disambiguation
+        * Parts-of-Speech
+        * [Autosummarize](/natural-language-processing/Autosummarize.ipynb)
+        * [Frequency Analysis](/natural-language-processing/Frequency-Analysis.ipynb)
 2. Deep learning
-    * TBA
+    * **MeriatFlow**: Deep neural network building library.
+    * CNTK 101
+    * TensorFlow 101
 3. Reinforcement learning
     * TBA
 
 ---
 
-# Ref
+## [Data](/data/)
 
+> Folders and datasets or files used in projects.
 
+* Data Cleaning
+* File Handling
+* Forest Cover Type
+* Indian Diabetes
+* Map Plotting
+* SMS Spam
+* Titanic
 
+---
 
-<i class="fa fa-camera-retro fa-lg"></i>
+## Ref
 
-i <3 :fa-coffee: and I <3 :fa-beer: and I'll buy wayland ten of both. 
 
 
