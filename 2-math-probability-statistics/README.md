@@ -30,5 +30,33 @@ Principal component analysis (PCA), invented by Pearson (1901) and Hotelling (19
 * [More Statistics](/Statistics.ipynb)
 
 
-## Ref
-* A Mathematical Introduction to Data Science - by Yuan Yao
+# Ref
+
+1. A Mathematical Introduction to Data Science - by Yuan Yao
+
+2. MOOCs on Mathematics & Statistics for Data Science & Machine Learning:
+    1. ### Beginners Mathematics & Statistics
+    * [1. Data Science Maths Skills](https://www.coursera.org/learn/datasciencemathskills)
+    * [2. Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    * [3. Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    * [4. Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
+    * [5. Math is Everywhere: Applications of Finite Math](https://www.udemy.com/math-is-everywhere-applications-of-finite-math/)
+    * [6. Probability: Basic Concepts & Discrete Random Variables](https://www.edx.org/course/probability-basic-concepts-discrete-purduex-416-1x)
+    * [7. Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics)
+    * [8. Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)
+    * [9. Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+
+    2. ### Intermediate Mathematics & Statistics
+    * [1. Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
+    * [2. Game Theory 1](https://www.coursera.org/learn/game-theory-1)
+    * [3. Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2)
+    * [4. Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-0)
+    * [5. Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models)
+    * [6. Advanced Linear Models for Data Science 2: Statistical Linear Models](https://www.coursera.org/learn/linear-models-2)
+    * [7. Maths in Sports](https://www.edx.org/course/math-sports-notredamex-mat150x#!)
+
+    3. ### Advanced Mathematics & Statistics
+    * [1.Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
+    * [2. Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics)
+    * [3. Biostatistics for Big Data Applications](https://www.edx.org/course/biostatistics-big-data-applications-utmbx-stat101x#!)
+
