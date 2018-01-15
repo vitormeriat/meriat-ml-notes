@@ -16,6 +16,16 @@ Todo o material é referenciado para sua fonte, e como exercício será traduzid
 
 :alien: <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
 
+Sobre a importância da cloud computing para o universo da inteligência artificial...
+
+> Depending on your company, mission, and budget, the biggest limitation is usually cost: powerful hardware and smart people don’t come cheap. But it seems a few companies are moving to eliminate the infrastructure part of the equation. Cloud computing has already permeated every facet of online activity. However, recent developments in AI and the increasing sophistication of programmers, presages a new age of cloud computing.
+
+<p align="center">
+  <img src="https://i0.wp.com/metakermit.com/files/2017/09/compiling.png" alt="mkcd" />
+  <br/>
+  by XKCD
+</p>
+
 ---
 
 ## Foundations

@@ -145,7 +145,7 @@ Folders and datasets or files used in projects.
 <p align="center">
   <img src="https://i0.wp.com/metakermit.com/files/2017/09/compiling.png" alt="mkcd" />
   <br/>
-  Mandatory XKCD reference
+  by XKCD
 </p>
 
 

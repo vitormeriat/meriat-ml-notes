@@ -1,4 +1,4 @@
-# Meriat Machine Learning Note
+# MATH
 
 > ... the objective of statistical methods is the reduction of data. A quantity of data... is to be replaced by relatively few quantities which shall adequately represent ... the relevant information contained in the original data. Since the number of independent facts supplied in the data is usually far greater than the number of facts sought, much of the information supplied by an actual sample is irrelevant. It is the object of
 the statistical process employed in the reduction of data to exclude this irrelevant information, and to isolate the whole of the relevant
@@ -12,7 +12,7 @@ Principal component analysis (PCA), invented by Pearson (1901) and Hotelling (19
 
 ---
 
-## MATH
+## Table of Contents
 
 * [Basic math notions](/Basic-Math.ipynb)
 * [Linear Algebra](/Linear-Algebra.ipynb)
