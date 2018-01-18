@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
+![version](https://img.shields.io/badge/version-v1.0-yellowgreen.svg) [![GitHub issues](https://img.shields.io/github/issues/vitormeriat/meriat-ml-notes.svg)](https://github.com/vitormeriat/meriat-ml-notes/issues) [![Twitter](https://img.shields.io/twitter/url/https/github.com/vitormeriat/meriat-ml-notes.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+
 # Meriat Machine Learning Notes
 
 Documentação contendo as anotações, observações e aprendizados durante minha árdua tarefa de estudar **Machine Learning**...
@@ -29,27 +31,27 @@ Como **Cloud specialist** não posso deixar de indicar com uma certa importânci
 
 
 ## Foundations
-    
-1. Programming
+1. [What is Machine Learning](/01-concepts/0-what-is-machine-learning.ipynb)
+2. Programming
     * Syntax and basic concepts
     * Practice: Coderbyte, Codewars, HackerRank
-2. Math
+3. Math
     1. Calculus
-        * [Basic math notions](/math-probability-statistics/Basic-Math.ipynb)        
-        * [NaN and Numeric Limits](/math-probability-statistics/NaN-and-Numeric-Limits.ipynb)
+        * [Basic math notions](/02-math-probability-statistics/Basic-Math.ipynb)        
+        * [NaN and Numeric Limits](/02-math-probability-statistics/NaN-and-Numeric-Limits.ipynb)
     2. Linear algebra
-        * [Linear Algebra](/math-probability-statistics/Linear-Algebra.ipynb)
+        * [Linear Algebra](/02-math-probability-statistics/Linear-Algebra.ipynb)
     3. Probability 
-        * [Basic Probability](/math-probability-statistics/Basic-Probability.ipynb)
+        * [Basic Probability](/02-math-probability-statistics/Basic-Probability.ipynb)
         * Common Ground
         * Limit Theorems
         * Derived Distributions
             * Covariance
             * Correlation
     4. Statistics
-        * [Basic Statistic](/math-probability-statistics/Basic-Statistic.ipynb)
-        * [More Statistics](/math-probability-statistics/Statistics.ipynb)
-3. Packages for scientific computing
+        * [Basic Statistic](/02-math-probability-statistics/Basic-Statistic.ipynb)
+        * [More Statistics](/02-math-probability-statistics/Statistics.ipynb)
+4. Packages for scientific computing
     1. Numpy
         * [Numpy arrays](/data-assimilation-and-visualization/numpy-arrays.ipynb)
         * [Numpy indexing and selection](/data-assimilation-and-visualization/numpy-indexing-and-selection.ipynb)
