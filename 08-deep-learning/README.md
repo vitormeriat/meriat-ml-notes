@@ -4,21 +4,23 @@
 
 ## Deep Learning
 
-[Vitor Meriat](http://www.vitormeriat.com.br/) is a computer scientist who is passionate about creating software that will positively change the world we live in.
-
-<img alt="Vitor Meriat" src="http://www.vitormeriat.com.br/assets/images/profile.jpg" height="50" width="50">
-
 * **MeriatFlow**: Deep neural network building library
 * CNTK
-    * Introduction
-    * Intro to NN with Iris dataset
-    * SMS Spam Filtering
+    * [Introduction](CNTK-Introduction.ipynb)
+    * [Intro to NN with Iris dataset](CNTK-Intro-to-NN-with-Iris-dataset.ipynb)
+    * [SMS Spam Filtering](CNTK-SMS-Spam-Filtering.ipynb)
 * TensorFlow
-    * Basic syntax and constructs
-    * Compare GPU vs CPU perfomance
-    * DNN classifier IRIS data
-    * Estimator API Regression
-    * Function approximation by linear model and deep network
+    * [Basic syntax and constructs](Tensorflow-Basic-syntax-and-constructs.ipynb)
+    * [Compare GPU vs CPU perfomance](Tensorflow-Compare-GPU-vs-CPU-perfomance .ipynb)
+    * [DNN classifier IRIS data](Tensorflow-DNN-classifier-IRIS-data.ipynb)
+    * [Estimator API Regression](Tensorflow-Estimator-API-Regression-Example.ipynb)
+    * [Function approximation by linear model and deep network](Tensorflow-Function-approximation-by-linear-model-and-deep-network.ipynb)
+    * [Intro with Iris dataset](Tensorflow-Iris.ipynb)
+    * [Iris with Sklearn](Tensorflow-Iris-with-Sklearn.ipynb)
+    * [Manually building NN by defining Class Graph Operation](Tensorflow-Manually-building-NN-by-defining-Class-Graph-Operation.ipynb)
+    * [Regression hyperparameters](Tensorflow-Regression-hyperparameters.ipynb)
+    * [RNN time series prediction intro](Tensorflow-RNN-time-series-prediction-intro.ipynb)
+    * [Train API with Linear Regression](Tensorflow-Train-API-with-Linear-Regression.ipynb)
 * Reinforcement learning (TBA)
 
 

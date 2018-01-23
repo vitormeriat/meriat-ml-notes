@@ -80,7 +80,7 @@ Como **Cloud specialist** não posso deixar de indicar com uma certa importânci
 ## Artificial intelligence
 
 1. Machine learning
-    1. [Algorithms](/algorithms/)
+    1. [Algorithms](/05-algorithms-and-complexity/)
         * Análise do componente principal (PCA)
         * Árvores de decisão e Florestas Aleatórias
         * K-Means-Clustering
@@ -92,20 +92,35 @@ Como **Cloud specialist** não posso deixar de indicar com uma certa importânci
         * Support-Vector-Machines
         * Map and Reduce
         * Regular Expression
-    2. [Natural Language Processing](/natural-language-processing/)
-        * [Basic Natural Language Processing](/natural-language-processing/Basic-Natural-Language-Processing.ipynb)
-        * [Tokenizing Words](/natural-language-processing/Tokenizing-Words.ipynb)
-        * [Tokenizing Sentences](/natural-language-processing/Tokenizing-Sentences.ipynb)
-        * [Stopword Removal](/natural-language-processing/Stopword-Removal.ipynb)
+    2. [Natural Language Processing](/05-algorithms-and-complexity/natural-language-processing/)
+        * [Basic Natural Language Processing](/05-algorithms-and-complexity/natural-language-processing/Basic-Natural-Language-Processing.ipynb)
+        * [Tokenizing Words](/05-algorithms-and-complexity/natural-language-processing/Tokenizing-Words.ipynb)
+        * [Tokenizing Sentences](/05-algorithms-and-complexity/natural-language-processing/Tokenizing-Sentences.ipynb)
+        * [Stopword Removal](/05-algorithms-and-complexity/natural-language-processing/Stopword-Removal.ipynb)
         * N-Grams
         * WordSense Disambiguation
         * Parts-of-Speech
-        * [Autosummarize](/natural-language-processing/Autosummarize.ipynb)
-        * [Frequency Analysis](/natural-language-processing/Frequency-Analysis.ipynb)
-2. Deep learning
-    * **MeriatFlow**: Deep neural network building library.
-    * CNTK 101
-    * TensorFlow 101
+        * [Autosummarize](/05-algorithms-and-complexity/natural-language-processing/Autosummarize.ipynb)
+        * [Frequency Analysis](/05-algorithms-and-complexity/natural-language-processing/Frequency-Analysis.ipynb)
+2. [Deep learning](/08-deep-learning/)
+    * **MeriatFlow**: Deep neural network building library
+    * CNTK
+        * [Introduction](/08-deep-learning/CNTK-Introduction.ipynb)
+        * [Intro to NN with Iris dataset](/08-deep-learning/CNTK-Intro-to-NN-with-Iris-dataset.ipynb)
+        * [SMS Spam Filtering](/08-deep-learning/CNTK-SMS-Spam-Filtering.ipynb)
+    * TensorFlow
+        * [Basic syntax and constructs](/08-deep-learning/Tensorflow-Basic-syntax-and-constructs.ipynb)
+        * [Compare GPU vs CPU perfomance](/08-deep-learning/Tensorflow-Compare-GPU-vs-CPU-perfomance .ipynb)
+        * [DNN classifier IRIS data](/08-deep-learning/Tensorflow-DNN-classifier-IRIS-data.ipynb)
+        * [Estimator API Regression](/08-deep-learning/Tensorflow-Estimator-API-Regression-Example.ipynb)
+        * [Function approximation by linear model and deep network](/08-deep-learning/Tensorflow-Function-approximation-by-linear-model-and-deep-network.ipynb)
+        * [Intro with Iris dataset](/08-deep-learning/Tensorflow-Iris.ipynb)
+        * [Iris with Sklearn](/08-deep-learning/Tensorflow-Iris-with-Sklearn.ipynb)
+        * [Manually building NN by defining Class Graph Operation](/08-deep-learning/Tensorflow-Manually-building-NN-by-defining-Class-Graph-Operation.ipynb)
+        * [Regression hyperparameters](/08-deep-learning/Tensorflow-Regression-hyperparameters.ipynb)
+        * [RNN time series prediction intro](/08-deep-learning/Tensorflow-RNN-time-series-prediction-intro.ipynb)
+        * [Train API with Linear Regression](/08-deep-learning/Tensorflow-Train-API-with-Linear-Regression.ipynb)
+    * Reinforcement learning (TBA)
 3. Reinforcement learning
     * TBA
 
